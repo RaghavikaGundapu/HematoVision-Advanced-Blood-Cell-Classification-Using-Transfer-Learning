@@ -1,0 +1,26 @@
+🔹 Activity 1: Poultry Blood Cell Classification using HematoVision
+
+Objective:
+Leverage deep learning and transfer learning techniques to classify various types of poultry blood cells for early disease detection in veterinary diagnostics.
+
+Work Done:
+
+Explored research papers and medical resources to understand the significance of poultry blood cell morphology in detecting infections.
+
+Chose a pre-trained deep learning model (Transfer Learning - MobileNetV2) to improve classification efficiency on limited dataset sizes.
+
+Designed and trained a model to recognize four types of blood cells: eosinophils, lymphocytes, monocytes, and neutrophils.
+
+Developed a Flask web app (HematoVision) for real-time image upload and classification.
+
+Integrated frontend (home.html, result.html) with backend predictions using a trained .h5 model.
+
+Built a responsive UI with custom image carousel and prediction result view.
+
+Outcome:
+
+Achieved high accuracy in classifying poultry blood cells, enhancing the diagnostic process.
+
+Created a user-friendly, deployable tool (HematoVision) to assist researchers and veterinarians.
+
+Demonstrated the potential of AI in veterinary hematology and diagnostic automation.
